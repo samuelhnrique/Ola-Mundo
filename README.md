@@ -3,4 +3,4 @@
  Este é meu Primeiro Repositório
  
  
- Ainda estou aprendendo a usar o *Git e o GitHub*
+ Ainda estou aprendendo a usar o __*Git e o GitHub*__
